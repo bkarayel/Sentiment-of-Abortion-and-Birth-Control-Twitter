@@ -1,2 +1,2 @@
-# Sentiment-of-Abortion-Related-Tweets-on-Twitter
-How The Popular Discourses Towards Abortion is Represented on Social Media?: A Sentiment Analysis of Tweets Regarding Abortion and Topic Modeling for Tweets with Positive and Negative Sentiment
+### Sentiment-of-Abortion-Related-Tweets-on-Twitter
+This repository includes sentiment towards abortion related Turkish tweets, and topic modeling for tweets with positive and negative sentiment. This study answers the question of how the popular discourses towards abortion is represented on social media. 
