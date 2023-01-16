@@ -9,4 +9,5 @@ This repository includes sentiment towards abortion related Turkish tweets, and 
    * Normalization
    * Removing Stopwords
    * Lemmatization
-3. 
+3. Training and testing a classification model with scikit-learn
+4. 
