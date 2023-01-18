@@ -9,5 +9,10 @@ This repository includes sentiment towards abortion related Turkish tweets, and 
    * Normalization
    * Removing Stopwords
    * Lemmatization
-3. Training and testing a classification model with scikit-learn
-4. 
+3. Preprocessing of Whole Abortion Data Set (same methods with 2.)
+4. Finding the Best Fit Model for SML (Supervised Machine Learning)
+5. Training and testing a classification model with scikit-learn
+6. Topic Modeling for Tweet with Negative Sentiment using GSDMM
+7. Topic Modeling for Tweet with Positive Sentiment using GSDMM
+
+
